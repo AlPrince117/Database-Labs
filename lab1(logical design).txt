@@ -50,6 +50,7 @@
 
 
 Booking can have many rooms
+does room and guest really need a relationship
 	
 
 
