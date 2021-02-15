@@ -1,0 +1,56 @@
+	Room
+	rm number	
+	*id 
+	smoking status	
+	
+
+
+
+	RoomType
+	*id
+	Name
+	Rate
+	Size
+
+
+
+	Guests
+	*id
+	full name
+	email address
+
+
+
+
+	
+
+	Booking
+	start date 
+	end date
+	Guest id(FK)
+	Room ID(FK)
+	
+
+
+
+	Bills
+	start date 
+	end date
+	costs(total and itemized cost)
+
+
+
+
+
+	Promotions
+	*id
+	
+
+
+
+
+Booking can have many rooms
+	
+
+
+	
